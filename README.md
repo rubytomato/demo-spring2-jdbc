@@ -3,8 +3,9 @@
 development environment
 
 * Java 1.8.0
-* Spring Boot 2.0.4
-  * Spring JDBC 5.0.8
+* Spring Boot 2.0.6
+  * Spring Boot Starter JDBC 2.0.6
+    * Spring JDBC 5.0.10
 * PostgreSQL 9.6.1
 * Maven 3.5.4
 
